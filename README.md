@@ -9,8 +9,8 @@ Sistema de gestión agrícola con interfaz gráfica en Python y base de datos My
 
 | Archivo | Descripción |
 |---|---|
-| `agrocontrol_sp.py` | Interfaz gráfica principal (Python + Tkinter) |
-| `procedimientos_agrocontrol.sql` | Procedimientos almacenados MySQL (ejecutar una sola vez) |
+| `tkinter.py` | Interfaz gráfica principal (Python + Tkinter) |
+| `agrocontrol+sp.sql` | Procedimientos almacenados MySQL (ejecutar una sola vez) |
 
 ---
 
